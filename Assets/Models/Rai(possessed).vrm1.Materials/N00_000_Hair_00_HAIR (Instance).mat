@@ -186,7 +186,7 @@ Material:
     - _M_EditMode: 1
     - _M_SrcBlend: 1
     - _M_ZWrite: 1
-    - _MaiColPo: 0.8
+    - _MaiColPo: 3.57
     - _MaxFadDistance: 2
     - _MinFadDistance: 0
     - _MixMainTexToOutline: 0

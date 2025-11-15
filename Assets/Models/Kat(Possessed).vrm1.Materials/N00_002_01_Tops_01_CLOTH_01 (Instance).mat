@@ -187,7 +187,7 @@ Material:
     - _M_EditMode: 1
     - _M_SrcBlend: 1
     - _M_ZWrite: 1
-    - _MaiColPo: 0.8
+    - _MaiColPo: 0.52
     - _MaxFadDistance: 2
     - _MinFadDistance: 0
     - _MixMainTexToOutline: 0
@@ -325,7 +325,7 @@ Material:
     - _GlossColor: {r: 1, g: 1, b: 1, a: 1}
     - _Glow_Color: {r: 1, g: 1, b: 1, a: 1}
     - _HighlightColor: {r: 1, g: 1, b: 1, a: 1}
-    - _MainColor: {r: 1, g: 1, b: 1, a: 1}
+    - _MainColor: {r: 0.1792453, g: 0.0008454987, b: 0.0008454987, a: 1}
     - _MatcapColor: {r: 1, g: 1, b: 1, a: 1}
     - _ObjPosi: {r: 0, g: 0, b: 0, a: 0}
     - _ObjectForward: {r: 0, g: 0, b: 0, a: 0}
